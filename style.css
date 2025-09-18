@@ -30,7 +30,7 @@ body{
     display: flex;
     border-radius: 25px;
     justify-content: center;
-    background: url("image\ suisse.jpg");
+    background: url("./image\ suisse.jpg");
     background-position: center;
     background-size: cover;
     transform: scale(1.03) perspective(200px);
@@ -164,4 +164,5 @@ pic-gradient{
 
 .loc-button:hover{
     background: #1a2379;
+
 }
